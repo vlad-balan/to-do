@@ -1,0 +1,8 @@
+.myInput {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid rgb(0, 66, 0);
+  border-radius: 10px;
+  color: rgb(0, 66, 0);
+  width: 100%;
+}
